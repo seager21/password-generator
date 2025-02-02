@@ -26,16 +26,16 @@ password-generator/
 ├── README.md         # Project documentation
 ```
 ##📌 How to Use
--1️⃣ Open index.html in a web browser.
--2️⃣ Enter the desired password length.
--3️⃣ Select the checkboxes for password requirements:
--Include lowercase letters (a-z)
--Include uppercase letters (A-Z)
--Include numbers (0-9)
--Include symbols (@#$%^&*...)
--4️⃣ Click "Generate Password" to create a secure password.
--5️⃣ Use the "Show/Hide Password" button to toggle visibility.
--6️⃣ Click "Copy to Clipboard" to copy the generated password.
+- 1️⃣ Open index.html in a web browser.
+- 2️⃣ Enter the desired password length.
+- 3️⃣ Select the checkboxes for password requirements:
+- Include lowercase letters (a-z)
+- Include uppercase letters (A-Z)
+- Include numbers (0-9)
+- Include symbols (@#$%^&*...)
+- 4️⃣ Click "Generate Password" to create a secure password.
+- 5️⃣ Use the "Show/Hide Password" button to toggle visibility.
+- 6️⃣ Click "Copy to Clipboard" to copy the generated password.
 
 ##📜 License
 This project is licensed under the MIT License.
