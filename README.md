@@ -25,7 +25,7 @@ password-generator/
 ├── script.js         # JavaScript for functionality
 ├── README.md         # Project documentation
 ```
-##📌 How to Use
+## 📌 How to Use
 - 1️⃣ Open index.html in a web browser.
 - 2️⃣ Enter the desired password length.
 - 3️⃣ Select the checkboxes for password requirements:
@@ -37,10 +37,10 @@ password-generator/
 - 5️⃣ Use the "Show/Hide Password" button to toggle visibility.
 - 6️⃣ Click "Copy to Clipboard" to copy the generated password.
 
-##📜 License
+## 📜 License
 
 This project is licensed under the MIT License.
 
-##👨‍💻 Author
+## 👨‍💻 Author
 
 Developed by Divaldo Barros.
