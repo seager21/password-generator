@@ -38,7 +38,9 @@ password-generator/
 - 6️⃣ Click "Copy to Clipboard" to copy the generated password.
 
 ##📜 License
+
 This project is licensed under the MIT License.
 
 ##👨‍💻 Author
+
 Developed by Divaldo Barros.
